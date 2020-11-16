@@ -10,6 +10,6 @@
 
 ## Wireframe
 Acceso directo al [wireframe](https://kugagraphic.github.io/Avance-nov16/)
-
+![ScreenShot](https://raw.githubusercontent.com/KugaGraphic/Avance-nov16/gh-pages/img/wireframe%20resumen.png)
 
 
