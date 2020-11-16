@@ -9,7 +9,7 @@
 7. Cierre - Otras especies afectadas
 
 ## Wireframe
-Acceso directo al [wireframe](link)
+Acceso directo al [wireframe](https://kugagraphic.github.io/Avance-nov16/)
 
 
 
