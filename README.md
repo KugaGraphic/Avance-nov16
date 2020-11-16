@@ -1,7 +1,4 @@
 # Pumas en la jungla de cemento
-## Wireframe
-Acceso directo al [wireframe](link)
-
 ## Estructura
 1. Avistamientos de Pumas en pericentro
 2. Motivos por lo que bajan/naturaleza del puma.
@@ -10,5 +7,9 @@ Acceso directo al [wireframe](link)
 5. Derechos de animales en constitución
 6. Cambios a considerar para la Nueva constitución
 7. Cierre - Otras especies afectadas
+
+## Wireframe
+Acceso directo al [wireframe](link)
+
 
 
